@@ -1,5 +1,5 @@
 # Prácticas Periodismo de Datos
-Repositorio final de **Teresa López** en el que se recogen todas las prácticas del curso y los enlaces a las mismas, así como el proceso de creación de este repositorio y web y de aprendizaje en las clases..
+Repositorio final de **Teresa López** en el que se recogen todas las prácticas del curso y los enlaces a las mismas, así como el proceso de creación de este repositorio y web y de aprendizaje en las clases.
  ## Práctica 1
 La práctica 1 consta de dos partes:
 ### Práctica 1: Tresca
@@ -8,7 +8,7 @@ La práctica 1 consta de dos partes:
  ### Práctica 1: Libre
 Este trabajo consiste en el comentario de un trabajo periodismo de datos a elección del alumno. He escogido una pieza de [Newtral](https://www.newtral.es/pp-vox-resultados-elecciones-castilla-leon/20220214/) con los datos sobre los resultados de las elecciones de Castilla y León del pasado 13 de febrero (**13-F**).
 - [P.1.Libre](https://github.com/Pontedatos/teresa-lopez-lopez/practica-1-libre.md).
- ### Práctica 2
+## Práctica 2
 En esta práctica me sirvo de diferentes trabajos de periodismo de datos para la elaboración de una historia propia. El tema escogido es el **Cambio Climático** y las fuentes utilizadas la [Unión Europea](https://op.europa.eu/en/publication-detail/-/publication/b9a25ba4-9ef6-11ea-9d2d-01aa75ed71a1/language-), [Red Eléctrica de España](https://www.pv-magazine.es/2021/03/16/record-historico-de-produccion-renovable-en-2020-que-supuso-el-44-de-la-generacion/) y [El País](https://elpais.com/clima-y-medio-ambiente/cambio-climatico/2021-11-07/como-sera-2060-el-mapa-con-nuestros-posibles-futuros-climaticos.html). Como en anteriores prácticas, utilizo el lenguaje de marcas estructurado y añado dos fotografías: una [infografía](https://i.pinimg.com/originals/39/a1/1d/39a11ddcc1817b1fbeffbf2ef7819b5e.jpg) de **Pinterest** y un [gráfico](https://www.energias-renovables.com/ficheroenergias/fotos/agenda/original/c/coberturadelademanda2020.jpg) del informe de Red Eléctrica que me ayudan a contar la historia.
 - [P.2.Cambio Climático](https://github.com/Pontedatos/teresa-lopez-lopez/practica-2.md).
 ## Práctica 3
