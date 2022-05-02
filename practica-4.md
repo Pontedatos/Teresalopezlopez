@@ -5,6 +5,6 @@ La práctica 4 supone la realización de un cuaderno en **Jupyter con Phyton**. 
 Este cuaderno trabaja con las librerías ´Pandas´ y `Folium` para la representación gráfica de los datos y la visuLlización de un mapa respectivamente. Tras la prepación de la librería (Pandas en este caso), definición de la variable y creación del dataframe se procede a la exploración del mismo con distintas funciones como `df.describe()` o ´df['']´ entre otras. A continuación se combinan tipos de datos diferentes con la función ´df.set_index()[]´ que posteriormente quedan representados en un gráfico con ´plot()´. Con la librería *Folium* las 5 zonas sanitarias de Alcobendas quedan visualizadas y marcadas en un mapa. Todo el proceso queda documentado explícitamente. Por último, partiendo del análisis y representación de los datos relizada, se bosqueja una historia con los mismos.
 
 Se puede encontrar el cuaderno en dos formatos: ***.html*** y ***.ipnyb***. Por lo que esta práctica consta de 3 archivos: 
-1. Datos de la práctica en formato csv: [Práctica-4.csv](pontedatos/teresa-lopez-lopez/practica-4.csv)
-2. Cuaderno en formato html: [Python-csv-covid19-pandas-.html](pontedatos/teresa-lopez-lopez/python-csv-covid19-pandas-.html)
-3. Cuaderno en formato ipnyb: [Python-csv-covid19-pandas-.ipnyb](pontedatos/teresa-lopez-lopez/python-csv-covid19-pandas-.ipnyb)
+1. [Datos de la práctica en formato csv](https://github.com/Pontedatos/teresa-lopez-lopez/blob/main/practica-4.csv)
+2. [Cuaderno en formato html](https://github.com/Pontedatos/teresa-lopez-lopez/blob/main/python-csv-covid19-pandas-.html)
+3. [Cuaderno en formato ipnyb](https://github.com/Pontedatos/teresa-lopez-lopez/blob/main/python-csv-covid19-pandas-.ipnyb)
