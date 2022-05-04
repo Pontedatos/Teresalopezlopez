@@ -7,4 +7,5 @@ A diferencia que el anterior, se trata de un trabajo cuyo grueso no es la invest
 
 Así, esta pieza constituye la destinada a la **exposición y representación de los datos**, con un esfuerzo por su **visualización**, a la que acompañan otras publicaciones explicativas con las claves y reacciones de las elecciones.
 
+
 ![Resultados elecciones](https://pbs.twimg.com/media/E0kqia9XIAcQqpJ.png)
