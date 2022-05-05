@@ -78,20 +78,20 @@ Primero listaré los comandos aprendidos para aportar un ejemplo de su posible u
 	- `echo $PATH` -> ver qué archivos y programas puedo configurar.
 	- `echo $SHELL` -> ver el lenguaje de programación utilizado.
 	- `echo $url` -> evocar una url definida.
-	- `git clone` -> clonar un repositorio.
-	- `git remote` -> crear, ver y eliminar conexiones con otros repositorios.
-		- `git remote -v`-> ver qué repositorios puedo bajar (**fetch**) y subir (**push**).
-		- `git remote add origin url` -> agregar un repositorio remoto.
-	- `git status` -> saber en qué estado me encuentro.
-	- `git add ` -> añadir a un directorio en una ruta los cambios guardados.
-	- `git commit -m ""` -> comitear lo cambios, ponerles el sello.
-	- `git push` -> subirlos a GitHub.
-	- `git config` -> configurar git y conectar GitHub con el ordenanor. 
-		- `git config --global user.name` -> configurar el nombre de usurario. 
-		- `git config --global user.email` -> configurar el email.
-		- `git config --global core.editor nano` -> configurar el editor de texto.
-		- `git branch` -> gestión de ramas.
-		- `git branch -m main` -> renombrar la rama actual *main*. 
+- `git clone` -> clonar un repositorio.
+- `git remote` -> crear, ver y eliminar conexiones con otros repositorios.
+	- `git remote -v`-> ver qué repositorios puedo bajar (**fetch**) y subir (**push**).
+	- `git remote add origin url` -> agregar un repositorio remoto.
+- `git status` -> saber en qué estado me encuentro.
+- `git add ` -> añadir a un directorio en una ruta los cambios guardados.
+- `git commit -m ""` -> comitear lo cambios, ponerles el sello.
+- `git push` -> subirlos a GitHub.
+- `git config` -> configurar git y conectar GitHub con el ordenanor. 
+	- `git config --global user.name` -> configurar el nombre de usurario. 
+	- `git config --global user.email` -> configurar el email.
+	- `git config --global core.editor nano` -> configurar el editor de texto.
+- `git branch` -> gestión de ramas.
+	- `git branch -m main` -> renombrar la rama actual *main*. 
 
 ### Comandos terminal forma
 Teclado
