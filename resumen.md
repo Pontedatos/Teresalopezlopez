@@ -78,6 +78,9 @@ Primero listaré los comandos aprendidos para aportar un ejemplo de su posible u
 	- `echo $PATH` -> ver qué archivos y programas puedo configurar.
 	- `echo $SHELL` -> ver el lenguaje de programación utilizado.
 	- `echo $url` -> evocar una url definida.
+
+Git
+
 - `git clone` -> clonar un repositorio.
 - `git remote` -> crear, ver y eliminar conexiones con otros repositorios.
 	- `git remote -v`-> ver qué repositorios puedo bajar (**fetch**) y subir (**push**).
@@ -146,7 +149,7 @@ Elimino todos los demás archivos del repositorio, pues todos han cambiado:
 Puedo borrarlos juntos en una acción. Cambio de directorio, al que contiene el repositorio final para copiar todos sus archivos excepto el README.md, resumen.md, metodología.md y _config.yml.
 - `cd -`
 - `cd ./teresa-lopez-lopez`
-- `cp practica-1-tresca.md practica-1.libre.md practica-2.md practica-3.md practica-4.md practica-4.csv api-pandas-folium.html api-pandas-folium.ipnyb esvsit.csv esvsitvsmx.png practica-4-grafico.png python-api-covid19-pandas.html pyhton-api-covid19-pandas.ipnyb python-csv-pandas.html pyhton-csv-pandas.html /mnt/c/Users/Terese/Desktop/UC3M/5/2/Periodismo\ de\ datos/Practicas-Periodismo-Datos/'
+- `cp practica-1-tresca.md practica-1.libre.md practica-2.md practica-3.md practica-4.md practica-4.csv api-pandas-folium.html api-pandas-folium.ipnyb esvsit.csv esvsitvsmx.png practica-4-grafico.png python-api-covid19-pandas.html pyhton-api-covid19-pandas.ipnyb python-csv-pandas.html pyhton-csv-pandas.html /mnt/c/Users/Terese/Desktop/UC3M/5/2/Periodismo\ de\ datos/Practicas-Periodismo-Datos/`
 
 Compruebo que se haya copiado, para ello cambio de directorio:
 - `cd -`
@@ -158,6 +161,7 @@ Me detengo en observar si está como lo quiero. Puedo revisar todos los document
 - `git commit -m "commit"`
 - `git status`
 - `git push`
-	-usuario
-	-token
+	- usuario
+	- token
+
 Reviso desde Github si está como quiero. 
