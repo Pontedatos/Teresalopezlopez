@@ -23,6 +23,7 @@ En esta práctica me sirvo de diferentes trabajos de periodismo de datos para la
 Este trabajo arranca de los cuadernos con los que hemos trabajado en **Jupyter** con **Python** para completarlos comentando qué he hecho, qué entiendo que he hecho y qué me falta por entender. Los cuadernos comprenden los primeros pasos con Python y la reproducción de gráficos a partir de la instalación e importación de librerías (como **Pandas**, **Folium**, **NumPy** o **Matplolib**), definición de variable, creación del dataframe que exploramos con distintas funciones y definición de las etiquetas para la reproducción gráfica final y visualización de los datos. Los documentos que la componen son los siguientes:
 
 [P.3. Explicación](practica-3.md)
+
 Este es el documento `.md` explicativo de los cuadernos que componen la práctica. Cada uno puede encontrarse en formato **html** y **ipnyb**.
 
 ### Api Pandas Folium 
