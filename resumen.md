@@ -78,8 +78,6 @@ Primero listaré los comandos aprendidos para aportar un ejemplo de su posible u
 	- `echo $PATH` -> ver qué archivos y programas puedo configurar.
 	- `echo $SHELL` -> ver el lenguaje de programación utilizado.
 	- `echo $url` -> evocar una url definida.
-
-`git`
 	- `git clone` -> clonar un repositorio.
 	- `git remote` -> crear, ver y eliminar conexiones con otros repositorios.
 		- `git remote -v`-> ver qué repositorios puedo bajar (**fetch**) y subir (**push**).
