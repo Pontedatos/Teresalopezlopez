@@ -9,7 +9,7 @@ Se puede encontrar el cuaderno en dos formatos: ***.html*** y ***.ipnyb***. Por 
 - [P.4.Cuaderno-html](python-csv-covid19-pandas.html)
 - [P.4.Cuaderno-ipnyb](python-csv-covid19-pandas.ipnyb)
 - [P.4.Gráfico](practica-4-grafico.png)
-
+- [P.4.Mapa](practica-4-mapa.html)
 
 ## Un pasito más 
-Para seguir avanzando es interesante trabajar en esta práctica la función de guardar un mapa (`mapa.save'mapa.html'`) y [filtrar filas específicas del dataframe](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html). 
+La falta de tiempo me lo ha impedido pero para seguir avanzando sería interesante en esta práctica [filtrar filas específicas del dataframe](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html). 

@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1fbd9fe57d4975461603b01e40ae579b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_1fbd9fe57d4975461603b01e40ae579b" ></div>
+        
+</body>
+<script>    
+    
+            var map_1fbd9fe57d4975461603b01e40ae579b = L.map(
+                "map_1fbd9fe57d4975461603b01e40ae579b",
+                {
+                    center: [40.5475, -3.64209],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c57ea4bcc074758c926041440825bb66 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var marker_5b5ee2c75307b848470ca266e9784835 = L.marker(
+                [40.5358796, -3.7016036],
+                {}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var icon_5add09a9d226ac3971d79bfce9749043 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_5b5ee2c75307b848470ca266e9784835.setIcon(icon_5add09a9d226ac3971d79bfce9749043);
+        
+    
+        var popup_1fa2187eac44c5720de4b256b7686915 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bdf6e2d1daba529656566ae544a4ced7 = $(`<div id="html_bdf6e2d1daba529656566ae544a4ced7" style="width: 100.0%; height: 100.0%;">La Chopera</div>`)[0];
+            popup_1fa2187eac44c5720de4b256b7686915.setContent(html_bdf6e2d1daba529656566ae544a4ced7);
+        
+
+        marker_5b5ee2c75307b848470ca266e9784835.bindPopup(popup_1fa2187eac44c5720de4b256b7686915)
+        ;
+
+        
+    
+    
+            marker_5b5ee2c75307b848470ca266e9784835.bindTooltip(
+                `<div>
+                     La Chopera, 7.715
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_079688f0cbcd6f37ca17c82cd66df4ff = L.marker(
+                [40.531936, -3.635167],
+                {}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var icon_9c7313e50d6a2d488994a7e3f8461c72 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_079688f0cbcd6f37ca17c82cd66df4ff.setIcon(icon_9c7313e50d6a2d488994a7e3f8461c72);
+        
+    
+        var popup_b9227bee1400d6bd522e2a2d96290e14 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c42e22e24f547e1ebb9f9d045efacbec = $(`<div id="html_c42e22e24f547e1ebb9f9d045efacbec" style="width: 100.0%; height: 100.0%;">La Moraleja</div>`)[0];
+            popup_b9227bee1400d6bd522e2a2d96290e14.setContent(html_c42e22e24f547e1ebb9f9d045efacbec);
+        
+
+        marker_079688f0cbcd6f37ca17c82cd66df4ff.bindPopup(popup_b9227bee1400d6bd522e2a2d96290e14)
+        ;
+
+        
+    
+    
+            marker_079688f0cbcd6f37ca17c82cd66df4ff.bindTooltip(
+                `<div>
+                     La Moraleja, 5.911
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_44a3e0fa779fec30d03e0d9e4b174264 = L.marker(
+                [40.541, -3.6374],
+                {}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var icon_1ffc331d2753cda2f634262c11a89a82 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_44a3e0fa779fec30d03e0d9e4b174264.setIcon(icon_1ffc331d2753cda2f634262c11a89a82);
+        
+    
+        var popup_1ab61e693edb2b04bd46599e4bd465bf = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1e9feb139ee28769f1d8d506c4c0d1a0 = $(`<div id="html_1e9feb139ee28769f1d8d506c4c0d1a0" style="width: 100.0%; height: 100.0%;">Marqués de la Valdavia</div>`)[0];
+            popup_1ab61e693edb2b04bd46599e4bd465bf.setContent(html_1e9feb139ee28769f1d8d506c4c0d1a0);
+        
+
+        marker_44a3e0fa779fec30d03e0d9e4b174264.bindPopup(popup_1ab61e693edb2b04bd46599e4bd465bf)
+        ;
+
+        
+    
+    
+            marker_44a3e0fa779fec30d03e0d9e4b174264.bindTooltip(
+                `<div>
+                     Marqués de la Valdavia, 4.181
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c4d7d176c9e5fd0368111df3e968eb8a = L.marker(
+                [40.5358796, -3.7016036],
+                {}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var icon_539521730e84dbb4fcbd1b8c10f44892 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_c4d7d176c9e5fd0368111df3e968eb8a.setIcon(icon_539521730e84dbb4fcbd1b8c10f44892);
+        
+    
+        var popup_e28fd46d33dd3f03f69b08d2409bc67e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_78edbe831e8cc8714225b650f2d5059a = $(`<div id="html_78edbe831e8cc8714225b650f2d5059a" style="width: 100.0%; height: 100.0%;">Miraflores</div>`)[0];
+            popup_e28fd46d33dd3f03f69b08d2409bc67e.setContent(html_78edbe831e8cc8714225b650f2d5059a);
+        
+
+        marker_c4d7d176c9e5fd0368111df3e968eb8a.bindPopup(popup_e28fd46d33dd3f03f69b08d2409bc67e)
+        ;
+
+        
+    
+    
+            marker_c4d7d176c9e5fd0368111df3e968eb8a.bindTooltip(
+                `<div>
+                     Miraflores, 5.940
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0f34c8c7811ed5188c651f681e6be761 = L.marker(
+                [40.547425, -3.654149],
+                {}
+            ).addTo(map_1fbd9fe57d4975461603b01e40ae579b);
+        
+    
+            var icon_750cc5aee883ed46815448f74197f0e4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "purple", "prefix": "glyphicon"}
+            );
+            marker_0f34c8c7811ed5188c651f681e6be761.setIcon(icon_750cc5aee883ed46815448f74197f0e4);
+        
+    
+        var popup_567787b7de31681b8d869f9626f91971 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_53d62b88a0edc3b880a975a91d40f8cf = $(`<div id="html_53d62b88a0edc3b880a975a91d40f8cf" style="width: 100.0%; height: 100.0%;">Valdelasfuentes</div>`)[0];
+            popup_567787b7de31681b8d869f9626f91971.setContent(html_53d62b88a0edc3b880a975a91d40f8cf);
+        
+
+        marker_0f34c8c7811ed5188c651f681e6be761.bindPopup(popup_567787b7de31681b8d869f9626f91971)
+        ;
+
+        
+    
+    
+            marker_0f34c8c7811ed5188c651f681e6be761.bindTooltip(
+                `<div>
+                     Valdelasfuentes, 5.948
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
