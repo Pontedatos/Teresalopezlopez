@@ -41,8 +41,8 @@ A través de este ejercicio representamos datos de la Api del Covid con la libre
 ## Práctica 4
 Esta práctica consiste en la elaboración de un cuaderno en Jupyter con Python a partir de una base de datos escogida en formato **CSV** para el análisis, presentación y visualización de los mismos con el objetivo de contar una historia. He escogido un conjunto de datos sobre las tasas e incidencia de la pandemia desde su origen hasta el pasado 29 de marzo en las personas de 60 o más años de edad en el municipio de Alcobendas. Las librerías utilizadas son **Pandas** y **Folium** para la representación gráfica de los datos y la visualización de un mapa con marcadores. Todo el proceso queda documentado a través del lenguaje **markdown**. Finalmente se guardan los datos, un gráfico y mapa resultante que pueden encontrarse en este repositorio. 
 - [P.4. Explicación](practica-4.md)
-- [P.4. Python.Csv.Covid.Pandas.html](python-csv-covid19-pandas-.html)
-- [P.4. Python.Csv.Covid.Pandas.ipnyb](python-prueba.ipynb)
+- [P.4. Python.Csv.Covid.Pandas.html](python-csv-covid19-pandas.html)
+- [P.4. Python.Csv.Covid.Pandas.ipnyb](python-csv-covid19-pandas.ipynb)
 - [P.4. Datos](practica-4.csv)
 - [P.4. Gráfico](practica-4-grafico.png)
 - [P.4. Mapa](practica-4-mapa.html)
