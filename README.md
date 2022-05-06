@@ -45,7 +45,7 @@ Esta práctica consiste en la elaboración de un cuaderno en Jupyter con Python 
 - [P.4. Python.Csv.Covid.Pandas.ipnyb](python-prueba.ipynb)
 - [P.4. Datos](practica-4.csv)
 - [P.4. Gráfico](practica-4-grafico.png)
-- [P.4.Mapa](practica-4-mapa.html)
+- [P.4. Mapa](practica-4-mapa.html)
 
 ## Documentación Metodología
 Este documento `.md` recoge el proceso de creación de este repositiorio y de la creación de la estructura web que posibilita este trabajo final.
