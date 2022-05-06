@@ -2,7 +2,7 @@
 Este archivo documenta cómo he creado este repositorio y la estructura web a él ligada. 
 
 ## Creación Repositorio
-En primer lugar, desde mi cuenta **Github** he creado un nuevo repositorio y lo he situado en **Pontedatos** con mi nombre. Así he generado la dirección que me permitiría trabajar con la terminal: `github.com/Pontedatos/Teresalopezlopez`. Lo creé con un documento **README.md**.
+En primer lugar, desde mi cuenta **Github** he creado un nuevo repositorio y lo he situado en **Pontedatos** con mi nombre. Así he generado la dirección que me permitiría trabajar con la terminal: `github.com/Pontedatos/teresa-lopez-lopez`. Lo creé con un documento **README.md**.
 
 ## Desde la terminal
 Desde la terminal he clonado el repositorio remoto para conectarlo con el local. Lo he hecho en una carpeta de trabajo diferente a la que he utilizado durante todo el curso y he movido el contenido de dicha carpeta a la recién llegada. Para ello he utlizado los distintos comandos:
@@ -23,7 +23,7 @@ Sin embargo, si no hubiera creado el repositorio con un **README.md** no hubiese
 - `git add README.md`
 - `git commit -m "first commit"`
 - `git branch -M main`
-- `git remote add origin https://github.com/Teresalopezlopez/nombre-repositorio-.git`
+- `git remote add origin https://github.com/Pontedatos/teresa-lopez-lopez-.git`
 - `git push -u origin main`
 
 Mientras lo hacía he ido cambiando y corrigiendo con `nano` cosas de todas las prácticas. Sobre todo los documentos ´.md´ explicativos con los enlaces relativos. 
