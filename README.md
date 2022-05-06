@@ -51,6 +51,7 @@ Esta práctica consiste en la elaboración de un cuaderno en Jupyter con Python 
 Este documento `.md` recoge el proceso de creación de este repositiorio y de la creación de la estructura web que posibilita este trabajo final.
 
 [Trabajo Final: metodología](metodologia.md)
+[Web](https://pontedatos.github.io/Teresalopezlopez/)
 
 ## Proceso de aprendizaje
 Este documento `.md` recoge el proceso de aprendizaje a lo largo del curso.
