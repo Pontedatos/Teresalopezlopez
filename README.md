@@ -28,7 +28,7 @@ Este es el documento `.md` explicativo de los cuadernos que componen la práctic
 
 ### Api Pandas Folium 
 En este cuaderno clasificamos por categorías una serie de datos de la Api de los accidentes de tráfico en la ciudad de Zaragoza registrados por su Ayuntamiento. Además representamos su lugar geográfico en un mapa. Utilizamos la librería **Pandas** para la reproducción gráfica de los datos y la librería **Folium** para su visualización en el mapa.
-- [P.3. Api.Pandas.Folium.hmtl](api-pandas-folium.html)
+- [P.3. Api.Pandas.Folium.html](api-pandas-folium.html)
 - [P.3. Api.Pandas.Folium.ipnyb](api-pandas-folium.ipynb)
 
 ### Python Api Covid19 Pandas
